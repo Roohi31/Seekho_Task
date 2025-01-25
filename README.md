@@ -4,7 +4,7 @@ A simple Android app that uses the Jikan API to fetch and display a list of anim
 ## **Features**
 1. **Anime List Page**:
    - Fetch and display a list of popular/top-rated anime using the Jikan API.
-   - Show the following details for each anime:
+   - Shows the following details for each anime:
      - Title
      - Number of Episodes
      - Rating
@@ -17,8 +17,7 @@ A simple Android app that uses the Jikan API to fetch and display a list of anim
      - Genre(s)
      - Main Cast
      - Number of Episodes
-     - Rating
-   - Include a video player to play the trailer if available, or show the poster image as a fallback.
+     - Ratings 
 
 ---
 
